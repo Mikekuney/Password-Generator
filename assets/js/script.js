@@ -111,7 +111,7 @@ function writePassword() {
   var password = generatePassword();
   passwordText.value = password;
 
-for (var i = 0; i < enter; i++) {
+for (var i = 0; i < choices; i++) {
   var pickChoices = choices[Math.floor(Math.random() * choices.length)];
   password.value(pickChoices);
   
