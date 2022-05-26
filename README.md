@@ -7,7 +7,7 @@
 - JavaScript
 # Website
 https://mikekuney.github.io/Password-Generator/
-![Screenshot (1)](https://user-images.githubusercontent.com/96913841/159976946-9a084ba9-7430-4150-ae7b-5080a615a2c0.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/96913841/170534810-332435d0-f127-4f80-bf5e-8ac9a45182ff.png)
 
 # Contributions
 -made by Mike Kuney
